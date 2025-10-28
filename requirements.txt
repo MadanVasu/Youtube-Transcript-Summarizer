@@ -1,0 +1,13 @@
+streamlit
+dotenv
+os
+re
+google.generativeai
+youtube_transcript_api
+# googleapiclient.discovery
+tempfile
+deep_translator
+gtts
+io
+fpdf2
+python-docx

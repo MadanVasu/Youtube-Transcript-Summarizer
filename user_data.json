@@ -1,0 +1,17 @@
+{
+    "": {
+        "username": {
+            "password": "$2b$12$IjhMnCVxhauXm972trEQt.8x1glWblhpOBStuyoh7tK3.BNN9ZWMq",
+            "history": [
+                {
+                    "youtube_link": "...",
+                    "title": "My Video Title",
+                    "summary": "...",
+                    "notes": "...",
+                    "transcript": "...",
+                    "timestamp": "..."
+                }
+            ]
+        }
+    }
+}
